@@ -7,9 +7,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/taalmonord/Vulnerability-Management-Project)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/taalmonord/Remediation-Email)**
+- **[Vulnerability Remediations STIGS](https://github.com/taalmonord/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (PwnCrypt Ransomware Threat Hunt)](https://github.com/taalmonord/Threat-Hunt-)**
 - **[Microsoft Defender XDR Incident Investigation & Response ](https://github.com/taalmonord/CTF-Threat-Hunt)**
+- **[Medrian Threat Hunt Capture The Flag ](https://github.com/taalmonord/Medrian-Threat-Hunt)**
+
+
 
