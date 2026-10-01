@@ -11,5 +11,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (PwnCrypt Ransomware Threat Hunt)](https://github.com/taalmonord/Threat-Hunt-)**
-- **[Microsoft Defender XDR Incident Investigation & Response (PwnCrypt Ransomware Threat Hunt)](https://github.com/taalmonord/CTF-Threat-Hunt)**
+- **[Microsoft Defender XDR Incident Investigation & Response ](https://github.com/taalmonord/CTF-Threat-Hunt)**
 
