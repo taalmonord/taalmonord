@@ -16,4 +16,4 @@ I'm passionate about IT & cybersecurity and love tackling complex challenges thr
 - **[Medrian Threat Hunt Capture The Flag ](https://github.com/taalmonord/Medrian-Threat-Hunt)**
 
 ## 🖥️ Systems Administration & IT Infrastructure
-
+- **[Windows Server Infrastructure Lab — Active Directory, DNS & Server Services](https://github.com/taalmonord/Windows-server-infrastructure-lab)**
